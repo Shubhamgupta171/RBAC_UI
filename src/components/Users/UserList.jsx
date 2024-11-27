@@ -2,8 +2,8 @@ import React, { useState } from "react";
 
 const UserList = () => {
   const [users, setUsers] = useState([
-    { id: 1, name: "Alice", email: "alice@example.com", role: "Admin" },
-    { id: 2, name: "Bob", email: "bob@example.com", role: "Editor" },
+    { id: 1, name: "Shubham Gupta", email: "inboxshubhamgupta17@gmail.com", role: "Admin" },
+    { id: 2, name: "Nayan", email: "nayancoding@gmail.com", role: "Manager" },
   ]);
 
   const addUser = () => {
