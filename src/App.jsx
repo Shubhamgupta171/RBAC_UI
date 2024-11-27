@@ -6,7 +6,7 @@ import Register from "./components/Register";
 // import Login from "./components/Login";
 import UserList from "./components/Users/UserList";
 import RoleList from "./components/Roles/RoleList";
-import PermissionsTable from "/Users/shubhamgupta/rbac-ui/src/components/Permissions.jsx/PermissionsTable.jsx";
+import PermissionsTable from "./components/Permissions.jsx/PermissionsTable.jsx";
 import Dashboard from "./components/Dashboard"; // Dashboard page
 const App = () => {
   return (
